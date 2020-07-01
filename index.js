@@ -1,4 +1,3 @@
 exports.printMessage=()=>{
-console.log("<<<<<<<<<<<<<<<<<<its worked>>>>>>>>>>>>>>>>>>")
-
+return "<<<<<<<<<<<<<<<<<<its worked>>>>>>>>>>>>>>>>>>"
 }
