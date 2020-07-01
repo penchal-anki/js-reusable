@@ -1,0 +1,25 @@
+{
+  "name": "array-manipulation",
+  "version": "1.0.3",
+  "description": "This package is used to manipulate your arrays and objects.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/penchal-anki/array-manipulation.git"
+  },
+  "keywords": [
+    "array",
+    "manipulation",
+    "object",
+    "manipulation"
+  ],
+  "author": "Penchal Anki <anki.rjc@gmail.com> (\"https://github.com/penchal-anki/array-manipulation\")",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/penchal-anki/array-manipulation/issues"
+  },
+  "homepage": "https://github.com/penchal-anki/array-manipulation#readme"
+}
