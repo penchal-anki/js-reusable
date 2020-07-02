@@ -1,4 +1,4 @@
-# Array and Object manipulation
+# Javascript Reusable
 
 ![image](https://s3.amazonaws.com/assets.wattbuy.com/images/javascript.png)
 
