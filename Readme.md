@@ -1,6 +1,6 @@
 # Array and Object manipulation
 
-![image](https://s3.amazonaws.com/assets.wattbuy.com/images/array.png)
+![image](https://s3.amazonaws.com/assets.wattbuy.com/images/javascript.png)
 
 This package is used to manipulate your arrays and objects.
 As we already known arrays and objects are most crucial part of our project implementation more likely to say we are dependent on it..

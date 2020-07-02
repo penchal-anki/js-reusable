@@ -1,6 +1,6 @@
 {
   "name": "array-manipulation",
-  "version": "1.0.5",
+  "version": "1.0.4",
   "description": "This package is used to manipulate your arrays and objects.",
   "main": "index.js",
   "scripts": {
